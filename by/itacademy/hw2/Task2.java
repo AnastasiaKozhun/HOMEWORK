@@ -15,8 +15,4 @@ public class Task2 {
                 reader.nextInt();
         System.out.println(num1+num2+num1*num2);
     }
-
-    static int sum(int num1, int num2) {
-        return num1+num2+num1*num2;
-    }
-    }
+}
