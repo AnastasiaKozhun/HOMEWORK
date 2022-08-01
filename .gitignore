@@ -1,2 +1,6 @@
 HelloWorld.class
 hello.txt
+.idea
+out
+*.iml
+*.xml
