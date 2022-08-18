@@ -2,23 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a5b64786-2168-48d5-ba31-85c5a21a12f4" name="Changes" comment="commit">
-      <change afterPath="$PROJECT_DIR$/hw3/src/by/itacademy/hw3/Task1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hw3/src/by/itacademy/hw3/Task2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hw3/src/by/itacademy/hw3/Task3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hw3/src/by/itacademy/hw3/Task4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hw3/src/by/itacademy/hw3/Task5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hw3/src/by/itacademy/hw3/Task6.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hw3/src/by/itacademy/hw3/Task7.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hw3/src/by/itacademy/hw3/Task8.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hw/src/by/itacademy/hw5/Task1/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hw/src/by/itacademy/hw5/Task1/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hw/src/by/itacademy/hw5/Task2/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hw/src/by/itacademy/hw5/Task2/Phone.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Task1.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Task2.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Task3.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Task4.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Task5.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Task6.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Task7.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -33,6 +22,11 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="hw5" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
     <option name="UPDATE_TYPE" value="REBASE" />
   </component>
@@ -61,13 +55,13 @@
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
   </component>
-  <component name="RunManager" selected="Application.Task7">
-    <configuration name="Task3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="by.itacademy.hw3.Task3" />
-      <module name="hw3" />
+  <component name="RunManager" selected="Application.Main (1)">
+    <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="by.itacademy.hw5.Task2.Main" />
+      <module name="hw" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="by.itacademy.hw3.*" />
+          <option name="PATTERN" value="by.itacademy.hw5.Task2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -75,12 +69,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Task4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="by.itacademy.hw3.Task4" />
-      <module name="hw3" />
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="by.itacademy.hw5.Task1.Main" />
+      <module name="hw" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="by.itacademy.hw3.*" />
+          <option name="PATTERN" value="by.itacademy.hw5.Task1.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -129,11 +123,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Main (1)" />
+        <item itemvalue="Application.Main" />
         <item itemvalue="Application.Task7" />
         <item itemvalue="Application.Task6" />
         <item itemvalue="Application.Task5" />
-        <item itemvalue="Application.Task4" />
-        <item itemvalue="Application.Task3" />
       </list>
     </recent_temporary>
   </component>
@@ -161,7 +155,19 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="origin/hw5" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
           </value>
         </entry>
       </map>
